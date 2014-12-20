@@ -1,0 +1,6 @@
+<resources>
+    
+    <dimen name="app_padding">10dp</dimen>
+    <dimen name="header_icon_size">42dp</dimen>
+    <dimen name="tab_item_icon_size">24dp</dimen>
+</resources>
