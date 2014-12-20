@@ -6,4 +6,4 @@ WanDaoJiaIndex
 Ð§¹ûÍ¼£º
 
 
-![image](https://github.com/YeDaxia/WanDaoJiaIndex/blob/master/jietu.png)
+![image](https://github.com/YeDaxia/WanDaoJiaIndex/blob/master/jietu.gif)
